@@ -1,6 +1,7 @@
 {
   "name": "sushiswap",
   "license": "UNLICENSED",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
